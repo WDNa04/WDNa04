@@ -40,7 +40,7 @@
 ## 💬 Connect with Me!!!
 [![Outlook](https://img.shields.io/badge/Email-WNa0531%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:WNa0531@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40wdn17__5-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wdn17_5)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Donghui_Na-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/williamdonghuina)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Donghui_Na-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/williamdonghuina)
 
 
 
