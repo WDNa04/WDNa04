@@ -37,6 +37,9 @@
 **🗺️ [WakeUpKorea](https://github.com/WDNa04/wakeupkorea_public)**
 - A transit companion app using the Naver Maps API, designed to track your location in real time and trigger an alarm as you approach your destination - built so you can travel comfortably and never have to worry about missing your stop again!!!
 
+**🛠️ [Solidworks-Projects](https://github.com/WDNa04/Solidworks-Projects)**
+- A collection of SolidWorks projects documenting my journey of developing advanced 3D CAD, design, and engineering skills through hands-on modeling, bringing me one step closer to my dream of becoming a motorsports engineer. 
+
 ## 💬 Connect with Me!!!
 [![Outlook](https://img.shields.io/badge/Email-WNa0531%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:WNa0531@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40wdn17__5-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wdn17_5)
